@@ -13,8 +13,8 @@ volunteer pull th assigned to them number from the drop down menu. When a volunt
 his assigned number in the meny, they can access various statistics about their personal bacteria.
 
 ## Resources 
-![screen1](https://github.com/TamaraGR/BB-Biodiversity-Dashboard/blob/main/screen1.png)
-![screen2](https://github.com/TamaraGR/BB-Biodiversity-Dashboard/blob/main/screen2.png)
+![screen1](https://github.com/TamaraGR/BB-Biodiversity-Dashboard/blob/main/Resources/screen1.png)
+![screen2](https://github.com/TamaraGR/BB-Biodiversity-Dashboard/blob/main/Resources/screen2.png)
 
 To prepare the depicted in the screenshot above dashboard the following resources have been used: 
 - [x] JavaScript (D3)
